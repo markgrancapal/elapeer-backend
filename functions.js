@@ -188,7 +188,7 @@ module.exports.saveDataToFile = (data, directory, filename) => {
 	}
 };
 
-module.exports.copyResultToServer=(src,directory,filename)=>{
+module.exports.copyResultToOtherPath=(src,directory,filename)=>{
 	try {
 		const filepath = path.join(directory,filename)
 		fs.copyFileSync(src,filepath)

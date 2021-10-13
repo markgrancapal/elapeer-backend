@@ -24,7 +24,7 @@ const {
 	getStatsData,
 	getCityNodesData,
 	saveDataToFile,
-	copyResultToServer
+	copyResultToOtherPath
 } = require("./functions");
 
 const { getPreviousDate, executeWithRetry } = require("./utils");
@@ -80,10 +80,10 @@ function main() {
 			
 			//Copy  file into server
 
-			const { filepath: cityNodesServerFilePath }= copyResultToServer(cityNodesFilePath,ELAPIER_OUTPUT_DIRECTORY,"citynodescount.json")
+			const { filepath: cityNodesServerFilePath }= copyResultToOtherPath(cityNodesFilePath,ELAPIER_OUTPUT_DIRECTORY,"citynodescount.json")
 			console.log(`copied latest citynodescount.json at ${cityNodesServerFilePath}`);
 
-			const { filepath: statsServerFilePath } = copyResultToServer(
+			const { filepath: statsServerFilePath } = copyResultToOtherPath(
 				statsFilePath,
 				ELAPIER_OUTPUT_DIRECTORY,				
 				"stats.json"
