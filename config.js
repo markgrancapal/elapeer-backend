@@ -1,9 +1,9 @@
 module.exports = {
 	LOG_DIRECTORY:
-		"/home/bon/var/elabox-crawler/logs",
+		"/home/maki/crawler_logs",
 	OUTPUT_DIRECTORY:
-		"/home/bon/var/elabox-crawler/out",
-	ELAPIER_OUTPUT_DIRECTORY:"/home/bon/var/elabox-crawler/out2",
+		"/home/maki/elapeer-backend/out",
+	ELAPIER_OUTPUT_DIRECTORY:"/home/maki/elapeer-server/data",
 	MONGODB_CONNECTION_STRING:
 		"mongodb://localhost/upwork",
 	DAYS_BEFORE_DELETE: 20,
