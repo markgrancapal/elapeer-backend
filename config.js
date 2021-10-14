@@ -5,7 +5,7 @@ module.exports = {
 		"/home/maki/elapeer-backend/out",
 	ELAPIER_OUTPUT_DIRECTORY:"/home/maki/elapeer-server/data",
 	MONGODB_CONNECTION_STRING:
-		"mongodb://localhost/upwork",
+		"mongodb://localhost/elapeer",
 	DAYS_BEFORE_DELETE: 20,
 	RETRY_COUNT: 5,
 	RETRY_INTERVAL: 60, // minutes
