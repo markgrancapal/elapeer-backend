@@ -102,10 +102,10 @@ module.exports.getStatsData = () => {
 
 			const countryNodes = data.map((row) => ({
 				name: row._id.country,
-				count: row.count,
+				total: row.count,
 			}));
 
-			countryNodes.forEach((node) => (total += node.count));
+			countryNodes.forEach((node) => (total += node.total));
 
 			resolve([
 				{
@@ -156,14 +156,14 @@ module.exports.getCityNodesData = () => {
 					}
 				}
 
-				const lat = corodinates ? corodinates.lat : "not found";
-				const lng = corodinates ? corodinates.lng : "not found";
+				const lat = corodinates ? parseFloat(corodinates.lat) : "not found";
+				const long = corodinates ? parseFloat(corodinates.lng) : "not found";
 
 				const node = {
 					country: row._id.country,
-					city: row._id.city,
+					name: row._id.city,
 					lat,
-					lng,
+					long,
 					count: row.count,
 				};
 
