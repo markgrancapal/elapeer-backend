@@ -141,8 +141,7 @@ module.exports.getCityNodesData = () => {
 
 			data.forEach((row) => {
 				const corodinates = getLatlng(row._id.country, row._id.city);
-
-				if (!corodinates) {
+				if (!corodinates || (corodinates.lat==="not available" && corodinates.lng==="not available") ) {
 					const findCity = missingCities.find(
 						(item) =>
 							item.country === row._id.country && item.city === row._id.city

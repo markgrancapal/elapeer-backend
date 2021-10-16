@@ -34,7 +34,6 @@ module.exports.getLatlng = (country, city) => {
 	} catch (err) {
 		throw err;
 	}
-	return { lat: 0, lng: 0 };
 };
 
 module.exports.getPreviousDate = () => {

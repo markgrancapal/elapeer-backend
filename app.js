@@ -64,7 +64,7 @@ function main() {
 			console.log(`saved citynodescount.json at ${cityNodesFilePath}`);
 			
 			const { filepath: missingCitiesFilePath } = saveDataToFile(
-				missingCities,
+			missingCities,
 				OUTPUT_DIRECTORY,
 				"missingcities.json"
 			);
