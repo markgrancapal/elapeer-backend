@@ -2,8 +2,8 @@ module.exports = {
 	LOG_DIRECTORY:
 		"/home/maki/crawler_logs",
 	OUTPUT_DIRECTORY:
-		"/home/maki/elapeer/generators/out",
-	ELAPIER_OUTPUT_DIRECTORY:"/home/maki/elapeer/generators/data",
+		"/home/maki/elapeer-backend/generators/out",
+	ELAPIER_OUTPUT_DIRECTORY:"/home/maki/elapeer-backend/server/data",
 	MONGODB_CONNECTION_STRING:
 		"mongodb://localhost/elapeer",
 	DAYS_BEFORE_DELETE: 20,
