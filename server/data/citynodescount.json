@@ -1,0 +1,2074 @@
+[
+  {
+    "country": "-",
+    "name": "-",
+    "lat": "not found",
+    "long": "not found",
+    "count": 23
+  },
+  {
+    "country": "Argentina",
+    "name": "Buenos Aires",
+    "lat": -34.61315,
+    "long": -58.37723,
+    "count": 1
+  },
+  {
+    "country": "Argentina",
+    "name": "Mendoza",
+    "lat": -32.89084,
+    "long": -68.82717,
+    "count": 1
+  },
+  {
+    "country": "Australia",
+    "name": "New South Wales",
+    "lat": null,
+    "long": null,
+    "count": 40
+  },
+  {
+    "country": "Australia",
+    "name": "Queensland",
+    "lat": null,
+    "long": null,
+    "count": 67
+  },
+  {
+    "country": "Australia",
+    "name": "Victoria",
+    "lat": null,
+    "long": null,
+    "count": 187
+  },
+  {
+    "country": "Australia",
+    "name": "Western Australia",
+    "lat": null,
+    "long": null,
+    "count": 14
+  },
+  {
+    "country": "Austria",
+    "name": "Steiermark",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Austria",
+    "name": "Wien",
+    "lat": null,
+    "long": null,
+    "count": 4
+  },
+  {
+    "country": "Bangladesh",
+    "name": "Dhaka",
+    "lat": 23.7104,
+    "long": 90.40744,
+    "count": 1
+  },
+  {
+    "country": "Belgium",
+    "name": "Namur",
+    "lat": 50.4669,
+    "long": 4.86746,
+    "count": 1
+  },
+  {
+    "country": "Belgium",
+    "name": "Oost-Vlaanderen",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Belgium",
+    "name": "Vlaams-Brabant",
+    "lat": null,
+    "long": null,
+    "count": 24
+  },
+  {
+    "country": "Brazil",
+    "name": "Maranhao",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Brazil",
+    "name": "Santa Catarina",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Brunei Darussalam",
+    "name": "Brunei-Muara",
+    "lat": 4.93442,
+    "long": 114.95054,
+    "count": 17
+  },
+  {
+    "country": "Canada",
+    "name": "Alberta",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Canada",
+    "name": "British Columbia",
+    "lat": null,
+    "long": null,
+    "count": 28
+  },
+  {
+    "country": "Canada",
+    "name": "Manitoba",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Canada",
+    "name": "Newfoundland and Labrador",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Canada",
+    "name": "Nova Scotia",
+    "lat": null,
+    "long": null,
+    "count": 59
+  },
+  {
+    "country": "Canada",
+    "name": "Ontario",
+    "lat": null,
+    "long": null,
+    "count": 40
+  },
+  {
+    "country": "Canada",
+    "name": "Quebec",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Canada",
+    "name": "Saskatchewan",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "China",
+    "name": "Anhui",
+    "lat": null,
+    "long": null,
+    "count": 5351
+  },
+  {
+    "country": "China",
+    "name": "Beijing",
+    "lat": 39.9075,
+    "long": 116.39723,
+    "count": 5903
+  },
+  {
+    "country": "China",
+    "name": "Chongqing",
+    "lat": 29.56278,
+    "long": 106.55278,
+    "count": 2119
+  },
+  {
+    "country": "China",
+    "name": "Fujian",
+    "lat": null,
+    "long": null,
+    "count": 2959
+  },
+  {
+    "country": "China",
+    "name": "Gansu",
+    "lat": null,
+    "long": null,
+    "count": 818
+  },
+  {
+    "country": "China",
+    "name": "Guangdong",
+    "lat": null,
+    "long": null,
+    "count": 13542
+  },
+  {
+    "country": "China",
+    "name": "Guangxi",
+    "lat": null,
+    "long": null,
+    "count": 6068
+  },
+  {
+    "country": "China",
+    "name": "Guizhou",
+    "lat": null,
+    "long": null,
+    "count": 1609
+  },
+  {
+    "country": "China",
+    "name": "Hainan",
+    "lat": null,
+    "long": null,
+    "count": 730
+  },
+  {
+    "country": "China",
+    "name": "Hebei",
+    "lat": null,
+    "long": null,
+    "count": 13203
+  },
+  {
+    "country": "China",
+    "name": "Heilongjiang",
+    "lat": null,
+    "long": null,
+    "count": 14430
+  },
+  {
+    "country": "China",
+    "name": "Henan",
+    "lat": null,
+    "long": null,
+    "count": 13948
+  },
+  {
+    "country": "China",
+    "name": "Hubei",
+    "lat": null,
+    "long": null,
+    "count": 5848
+  },
+  {
+    "country": "China",
+    "name": "Hunan",
+    "lat": null,
+    "long": null,
+    "count": 5073
+  },
+  {
+    "country": "China",
+    "name": "Jiangsu",
+    "lat": null,
+    "long": null,
+    "count": 11214
+  },
+  {
+    "country": "China",
+    "name": "Jiangxi",
+    "lat": null,
+    "long": null,
+    "count": 3857
+  },
+  {
+    "country": "China",
+    "name": "Jilin",
+    "lat": 43.85083,
+    "long": 126.56028,
+    "count": 3596
+  },
+  {
+    "country": "China",
+    "name": "Liaoning",
+    "lat": null,
+    "long": null,
+    "count": 6917
+  },
+  {
+    "country": "China",
+    "name": "Nei Mongol",
+    "lat": null,
+    "long": null,
+    "count": 2286
+  },
+  {
+    "country": "China",
+    "name": "Ningxia",
+    "lat": null,
+    "long": null,
+    "count": 154
+  },
+  {
+    "country": "China",
+    "name": "Qinghai",
+    "lat": null,
+    "long": null,
+    "count": 291
+  },
+  {
+    "country": "China",
+    "name": "Shaanxi",
+    "lat": null,
+    "long": null,
+    "count": 2995
+  },
+  {
+    "country": "China",
+    "name": "Shandong",
+    "lat": null,
+    "long": null,
+    "count": 19428
+  },
+  {
+    "country": "China",
+    "name": "Shanghai",
+    "lat": 31.22222,
+    "long": 121.45806,
+    "count": 2290
+  },
+  {
+    "country": "China",
+    "name": "Shanxi",
+    "lat": null,
+    "long": null,
+    "count": 5746
+  },
+  {
+    "country": "China",
+    "name": "Sichuan",
+    "lat": null,
+    "long": null,
+    "count": 2732
+  },
+  {
+    "country": "China",
+    "name": "Tianjin",
+    "lat": 39.14222,
+    "long": 117.17667,
+    "count": 1455
+  },
+  {
+    "country": "China",
+    "name": "Xinjiang",
+    "lat": null,
+    "long": null,
+    "count": 208
+  },
+  {
+    "country": "China",
+    "name": "Xizang",
+    "lat": null,
+    "long": null,
+    "count": 117
+  },
+  {
+    "country": "China",
+    "name": "Yunnan",
+    "lat": null,
+    "long": null,
+    "count": 3546
+  },
+  {
+    "country": "China",
+    "name": "Zhejiang",
+    "lat": null,
+    "long": null,
+    "count": 5339
+  },
+  {
+    "country": "Congo (Democratic Republic of the)",
+    "name": "Kinshasa",
+    "lat": -4.32758,
+    "long": 15.31357,
+    "count": 1
+  },
+  {
+    "country": "Costa Rica",
+    "name": "Guanacaste",
+    "lat": null,
+    "long": null,
+    "count": 4
+  },
+  {
+    "country": "Costa Rica",
+    "name": "Heredia",
+    "lat": 10.00236,
+    "long": -84.11651,
+    "count": 7
+  },
+  {
+    "country": "Costa Rica",
+    "name": "Puntarenas",
+    "lat": 9.97625,
+    "long": -84.83836,
+    "count": 1
+  },
+  {
+    "country": "Costa Rica",
+    "name": "San Jose",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Croatia",
+    "name": "Pozesko-slavonska zupanija",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Croatia",
+    "name": "Splitsko-dalmatinska zupanija",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Croatia",
+    "name": "Zagrebacka zupanija",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Curacao",
+    "name": "Curacao",
+    "lat": "not found",
+    "long": "not found",
+    "count": 1
+  },
+  {
+    "country": "Czechia",
+    "name": "Karlovarsky kraj",
+    "lat": 50.1824,
+    "long": 12.73847,
+    "count": 1
+  },
+  {
+    "country": "Czechia",
+    "name": "Moravskoslezsky kraj",
+    "lat": 48.99016,
+    "long": 17.33269,
+    "count": 2
+  },
+  {
+    "country": "Czechia",
+    "name": "Praha",
+    "lat": 50.09043,
+    "long": 14.44295,
+    "count": 2
+  },
+  {
+    "country": "Czechia",
+    "name": "Stredocesky kraj",
+    "lat": 50.06892,
+    "long": 14.17988,
+    "count": 7
+  },
+  {
+    "country": "Finland",
+    "name": "Etela-Karjala",
+    "lat": null,
+    "long": null,
+    "count": 10
+  },
+  {
+    "country": "Finland",
+    "name": "Etela-Savo",
+    "lat": null,
+    "long": null,
+    "count": 6
+  },
+  {
+    "country": "Finland",
+    "name": "Lappi",
+    "lat": 61.1,
+    "long": 21.83333,
+    "count": 13
+  },
+  {
+    "country": "Finland",
+    "name": "Paijat-Hame",
+    "lat": null,
+    "long": null,
+    "count": 11
+  },
+  {
+    "country": "Finland",
+    "name": "Pirkanmaa",
+    "lat": null,
+    "long": null,
+    "count": 22
+  },
+  {
+    "country": "Finland",
+    "name": "Satakunta",
+    "lat": null,
+    "long": null,
+    "count": 7
+  },
+  {
+    "country": "Finland",
+    "name": "Uusimaa",
+    "lat": null,
+    "long": null,
+    "count": 37
+  },
+  {
+    "country": "Finland",
+    "name": "Varsinais-Suomi",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "France",
+    "name": "Ile-de-France",
+    "lat": null,
+    "long": null,
+    "count": 8
+  },
+  {
+    "country": "France",
+    "name": "Normandie",
+    "lat": null,
+    "long": null,
+    "count": 21
+  },
+  {
+    "country": "France",
+    "name": "Pays-de-la-Loire",
+    "lat": null,
+    "long": null,
+    "count": 14
+  },
+  {
+    "country": "Germany",
+    "name": "Baden-Wurttemberg",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Germany",
+    "name": "Bayern",
+    "lat": null,
+    "long": null,
+    "count": 17
+  },
+  {
+    "country": "Germany",
+    "name": "Hessen",
+    "lat": null,
+    "long": null,
+    "count": 6
+  },
+  {
+    "country": "Germany",
+    "name": "Mecklenburg-Vorpommern",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Germany",
+    "name": "Nordrhein-Westfalen",
+    "lat": null,
+    "long": null,
+    "count": 19
+  },
+  {
+    "country": "Germany",
+    "name": "Schleswig-Holstein",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Greece",
+    "name": "Attiki",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Hong Kong",
+    "name": "Hong Kong",
+    "lat": 22.27832,
+    "long": 114.17469,
+    "count": 99
+  },
+  {
+    "country": "India",
+    "name": "Karnataka",
+    "lat": null,
+    "long": null,
+    "count": 104
+  },
+  {
+    "country": "India",
+    "name": "Odisha",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "India",
+    "name": "Telangana",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "India",
+    "name": "Uttar Pradesh",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Indonesia",
+    "name": "Bali",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Indonesia",
+    "name": "Jawa Timur",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Indonesia",
+    "name": "Kepulauan Riau",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Indonesia",
+    "name": "Riau",
+    "lat": null,
+    "long": null,
+    "count": 7
+  },
+  {
+    "country": "Ireland",
+    "name": "Dublin",
+    "lat": 53.33306,
+    "long": -6.24889,
+    "count": 1
+  },
+  {
+    "country": "Israel",
+    "name": "HaDarom",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Israel",
+    "name": "HaTsafon",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Italy",
+    "name": "Campania",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Italy",
+    "name": "Emilia-Romagna",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Italy",
+    "name": "Lombardia",
+    "lat": null,
+    "long": null,
+    "count": 32
+  },
+  {
+    "country": "Italy",
+    "name": "Piemonte",
+    "lat": null,
+    "long": null,
+    "count": 18
+  },
+  {
+    "country": "Italy",
+    "name": "Puglia",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Italy",
+    "name": "Sicilia",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Italy",
+    "name": "Trentino-Alto Adige",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Italy",
+    "name": "Veneto",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Japan",
+    "name": "Aichi",
+    "lat": null,
+    "long": null,
+    "count": 7
+  },
+  {
+    "country": "Japan",
+    "name": "Chiba",
+    "lat": 35.6,
+    "long": 140.11667,
+    "count": 2
+  },
+  {
+    "country": "Japan",
+    "name": "Fukuoka",
+    "lat": 33.6,
+    "long": 130.41667,
+    "count": 2
+  },
+  {
+    "country": "Japan",
+    "name": "Hiroshima",
+    "lat": 34.4,
+    "long": 132.45,
+    "count": 17
+  },
+  {
+    "country": "Japan",
+    "name": "Hyogo",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Japan",
+    "name": "Kanagawa",
+    "lat": null,
+    "long": null,
+    "count": 13
+  },
+  {
+    "country": "Japan",
+    "name": "Kumamoto",
+    "lat": 32.80589,
+    "long": 130.69181,
+    "count": 33
+  },
+  {
+    "country": "Japan",
+    "name": "Kyoto",
+    "lat": 35.02107,
+    "long": 135.75385,
+    "count": 1
+  },
+  {
+    "country": "Japan",
+    "name": "Mie",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Japan",
+    "name": "Miyagi",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Japan",
+    "name": "Niigata",
+    "lat": 37.88637,
+    "long": 139.00589,
+    "count": 1
+  },
+  {
+    "country": "Japan",
+    "name": "Oita",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Japan",
+    "name": "Osaka",
+    "lat": 34.69374,
+    "long": 135.50218,
+    "count": 32
+  },
+  {
+    "country": "Japan",
+    "name": "Shiga",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Japan",
+    "name": "Shimane",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Japan",
+    "name": "Tokyo",
+    "lat": 35.6895,
+    "long": 139.69171,
+    "count": 125
+  },
+  {
+    "country": "Japan",
+    "name": "Yamaguchi",
+    "lat": 34.18333,
+    "long": 131.46667,
+    "count": 1
+  },
+  {
+    "country": "Jordan",
+    "name": "Al 'Asimah",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Korea (Republic of)",
+    "name": "Gyeonggi-do",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Korea (Republic of)",
+    "name": "Seoul-teukbyeolsi",
+    "lat": null,
+    "long": null,
+    "count": 13
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "name": "Viangchan",
+    "lat": 17.98557,
+    "long": 102.6,
+    "count": 2
+  },
+  {
+    "country": "Lithuania",
+    "name": "Kauno apskritis",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Lithuania",
+    "name": "Siauliu apskritis",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Macao",
+    "name": "Macao",
+    "lat": null,
+    "long": null,
+    "count": 4
+  },
+  {
+    "country": "Malaysia",
+    "name": "Johor",
+    "lat": null,
+    "long": null,
+    "count": 9
+  },
+  {
+    "country": "Malaysia",
+    "name": "Kedah",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Malaysia",
+    "name": "Melaka",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Malaysia",
+    "name": "Negeri Sembilan",
+    "lat": null,
+    "long": null,
+    "count": 13
+  },
+  {
+    "country": "Malaysia",
+    "name": "Pahang",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Malaysia",
+    "name": "Perak",
+    "lat": null,
+    "long": null,
+    "count": 6
+  },
+  {
+    "country": "Malaysia",
+    "name": "Pulau Pinang",
+    "lat": null,
+    "long": null,
+    "count": 6
+  },
+  {
+    "country": "Malaysia",
+    "name": "Sabah",
+    "lat": null,
+    "long": null,
+    "count": 13
+  },
+  {
+    "country": "Malaysia",
+    "name": "Sarawak",
+    "lat": null,
+    "long": null,
+    "count": 19
+  },
+  {
+    "country": "Malaysia",
+    "name": "Selangor",
+    "lat": null,
+    "long": null,
+    "count": 43
+  },
+  {
+    "country": "Malaysia",
+    "name": "Wilayah Persekutuan Kuala Lumpur",
+    "lat": null,
+    "long": null,
+    "count": 26
+  },
+  {
+    "country": "Mali",
+    "name": "Bamako",
+    "lat": 12.65,
+    "long": -8,
+    "count": 1
+  },
+  {
+    "country": "Mexico",
+    "name": "Chiapas",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Mexico",
+    "name": "Ciudad de Mexico",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Morocco",
+    "name": "L'Oriental",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Myanmar",
+    "name": "Mandalay",
+    "lat": 21.97473,
+    "long": 96.08359,
+    "count": 12
+  },
+  {
+    "country": "Myanmar",
+    "name": "Yangon",
+    "lat": 16.80528,
+    "long": 96.15611,
+    "count": 2
+  },
+  {
+    "country": "Nepal",
+    "name": "Bagmati",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Nepal",
+    "name": "Gandaki",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Netherlands",
+    "name": "Drenthe",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Netherlands",
+    "name": "Gelderland",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Netherlands",
+    "name": "Limburg",
+    "lat": null,
+    "long": null,
+    "count": 19
+  },
+  {
+    "country": "Netherlands",
+    "name": "Noord-Brabant",
+    "lat": null,
+    "long": null,
+    "count": 9
+  },
+  {
+    "country": "Netherlands",
+    "name": "Noord-Holland",
+    "lat": null,
+    "long": null,
+    "count": 20
+  },
+  {
+    "country": "Netherlands",
+    "name": "Overijssel",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Netherlands",
+    "name": "Utrecht",
+    "lat": 52.09083,
+    "long": 5.12222,
+    "count": 2
+  },
+  {
+    "country": "Netherlands",
+    "name": "Zuid-Holland",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "New Zealand",
+    "name": "Auckland",
+    "lat": -36.84853,
+    "long": 174.76349,
+    "count": 12
+  },
+  {
+    "country": "New Zealand",
+    "name": "Bay of Plenty",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "New Zealand",
+    "name": "Manawatu-Wanganui",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "New Zealand",
+    "name": "Northland",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "New Zealand",
+    "name": "Wellington",
+    "lat": -41.28664,
+    "long": 174.77557,
+    "count": 2
+  },
+  {
+    "country": "Nigeria",
+    "name": "Kwara",
+    "lat": null,
+    "long": null,
+    "count": 6
+  },
+  {
+    "country": "Nigeria",
+    "name": "Lagos",
+    "lat": 6.45407,
+    "long": 3.39467,
+    "count": 3
+  },
+  {
+    "country": "Nigeria",
+    "name": "Ogun",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Nigeria",
+    "name": "Osun",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Panama",
+    "name": "Panama",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Philippines",
+    "name": "Bataan",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Philippines",
+    "name": "Batangas",
+    "lat": 13.7567,
+    "long": 121.0584,
+    "count": 2
+  },
+  {
+    "country": "Philippines",
+    "name": "Bulacan",
+    "lat": 14.79278,
+    "long": 120.87889,
+    "count": 13
+  },
+  {
+    "country": "Philippines",
+    "name": "Cavite",
+    "lat": 15.67785,
+    "long": 120.76978,
+    "count": 7
+  },
+  {
+    "country": "Philippines",
+    "name": "Cebu",
+    "lat": null,
+    "long": null,
+    "count": 4
+  },
+  {
+    "country": "Philippines",
+    "name": "Ilocos Sur",
+    "lat": null,
+    "long": null,
+    "count": 8
+  },
+  {
+    "country": "Philippines",
+    "name": "Iloilo",
+    "lat": 10.69694,
+    "long": 122.56444,
+    "count": 6
+  },
+  {
+    "country": "Philippines",
+    "name": "Laguna",
+    "lat": null,
+    "long": null,
+    "count": 36
+  },
+  {
+    "country": "Philippines",
+    "name": "Misamis Occidental",
+    "lat": null,
+    "long": null,
+    "count": 31
+  },
+  {
+    "country": "Philippines",
+    "name": "National Capital Region",
+    "lat": null,
+    "long": null,
+    "count": 148
+  },
+  {
+    "country": "Philippines",
+    "name": "Palawan",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Philippines",
+    "name": "Pampanga",
+    "lat": null,
+    "long": null,
+    "count": 4
+  },
+  {
+    "country": "Philippines",
+    "name": "Quezon",
+    "lat": 17.31303,
+    "long": 121.60654,
+    "count": 2
+  },
+  {
+    "country": "Philippines",
+    "name": "Rizal",
+    "lat": 17.8486,
+    "long": 121.3466,
+    "count": 19
+  },
+  {
+    "country": "Philippines",
+    "name": "Romblon",
+    "lat": 12.57513,
+    "long": 122.27081,
+    "count": 6
+  },
+  {
+    "country": "Philippines",
+    "name": "Tarlac",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Poland",
+    "name": "Dolnoslaskie",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Poland",
+    "name": "Mazowieckie",
+    "lat": null,
+    "long": null,
+    "count": 4
+  },
+  {
+    "country": "Poland",
+    "name": "Pomorskie",
+    "lat": null,
+    "long": null,
+    "count": 17
+  },
+  {
+    "country": "Poland",
+    "name": "Slaskie",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Portugal",
+    "name": "Faro",
+    "lat": 37.01937,
+    "long": -7.93223,
+    "count": 1
+  },
+  {
+    "country": "Portugal",
+    "name": "Lisboa",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Portugal",
+    "name": "Porto",
+    "lat": 41.14961,
+    "long": -8.61099,
+    "count": 5
+  },
+  {
+    "country": "Romania",
+    "name": "Vaslui",
+    "lat": 46.63333,
+    "long": 27.73333,
+    "count": 1
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Belgorodskaya oblast'",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Irkutskaya oblast'",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Kaliningradskaya oblast'",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Karachayevo-Cherkesskaya Respublika",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Khabarovskiy kray",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Krasnodarskiy kray",
+    "lat": null,
+    "long": null,
+    "count": 8
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Moskovskaya oblast'",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Moskva",
+    "lat": null,
+    "long": null,
+    "count": 10
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Rostovskaya oblast'",
+    "lat": null,
+    "long": null,
+    "count": 8
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Sakhalinskaya oblast'",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Tomskaya oblast'",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Russian Federation",
+    "name": "Voronezhskaya oblast'",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Saudi Arabia",
+    "name": "Al Qasim",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Saudi Arabia",
+    "name": "Ar Riyad",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Saudi Arabia",
+    "name": "Ash Sharqiyah",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Singapore",
+    "name": "Singapore",
+    "lat": 1.28967,
+    "long": 103.85007,
+    "count": 460
+  },
+  {
+    "country": "Slovakia",
+    "name": "Banskobystricky kraj",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Slovakia",
+    "name": "Bratislavsky kraj",
+    "lat": null,
+    "long": null,
+    "count": 42
+  },
+  {
+    "country": "Slovakia",
+    "name": "Kosicky kraj",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Slovakia",
+    "name": "Nitriansky kraj",
+    "lat": null,
+    "long": null,
+    "count": 7
+  },
+  {
+    "country": "Slovakia",
+    "name": "Presovsky kraj",
+    "lat": null,
+    "long": null,
+    "count": 23
+  },
+  {
+    "country": "Slovakia",
+    "name": "Trnavsky kraj",
+    "lat": null,
+    "long": null,
+    "count": 11
+  },
+  {
+    "country": "Slovakia",
+    "name": "Zilinsky kraj",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Slovenia",
+    "name": "Celje",
+    "lat": 46.23092,
+    "long": 15.26044,
+    "count": 12
+  },
+  {
+    "country": "South Africa",
+    "name": "-",
+    "lat": null,
+    "long": null,
+    "count": 7
+  },
+  {
+    "country": "South Africa",
+    "name": "Eastern Cape",
+    "lat": null,
+    "long": null,
+    "count": 34
+  },
+  {
+    "country": "South Africa",
+    "name": "Gauteng",
+    "lat": null,
+    "long": null,
+    "count": 14
+  },
+  {
+    "country": "South Africa",
+    "name": "Western Cape",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Spain",
+    "name": "Castilla y Leon",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "Spain",
+    "name": "Catalunya",
+    "lat": null,
+    "long": null,
+    "count": 8
+  },
+  {
+    "country": "Spain",
+    "name": "Madrid",
+    "lat": 40.4165,
+    "long": -3.70256,
+    "count": 7
+  },
+  {
+    "country": "Spain",
+    "name": "Valenciana",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Sweden",
+    "name": "Orebro lan",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Sweden",
+    "name": "Stockholms lan",
+    "lat": null,
+    "long": null,
+    "count": 22
+  },
+  {
+    "country": "Sweden",
+    "name": "Vastra Gotalands lan",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Switzerland",
+    "name": "Basel-Stadt",
+    "lat": null,
+    "long": null,
+    "count": 113
+  },
+  {
+    "country": "Switzerland",
+    "name": "Bern",
+    "lat": 46.94809,
+    "long": 7.44744,
+    "count": 2
+  },
+  {
+    "country": "Switzerland",
+    "name": "Sankt Gallen",
+    "lat": 47.42391,
+    "long": 9.37477,
+    "count": 23
+  },
+  {
+    "country": "Switzerland",
+    "name": "Thurgau",
+    "lat": null,
+    "long": null,
+    "count": 11
+  },
+  {
+    "country": "Switzerland",
+    "name": "Valais",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Switzerland",
+    "name": "Zurich",
+    "lat": null,
+    "long": null,
+    "count": 66
+  },
+  {
+    "country": "Taiwan (Province of China)",
+    "name": "Changhua",
+    "lat": 24.07271,
+    "long": 120.57244,
+    "count": 2
+  },
+  {
+    "country": "Taiwan (Province of China)",
+    "name": "Keelung",
+    "lat": 25.12825,
+    "long": 121.7419,
+    "count": 3
+  },
+  {
+    "country": "Taiwan (Province of China)",
+    "name": "New Taipei",
+    "lat": 25.0175,
+    "long": 121.46069,
+    "count": 1
+  },
+  {
+    "country": "Taiwan (Province of China)",
+    "name": "Pingtung",
+    "lat": 22.67135,
+    "long": 120.48814,
+    "count": 5
+  },
+  {
+    "country": "Taiwan (Province of China)",
+    "name": "Taipei",
+    "lat": 25.04776,
+    "long": 121.53185,
+    "count": 24
+  },
+  {
+    "country": "Tanzania",
+    "name": "United Republic of",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "Thailand",
+    "name": "Chaiyaphum",
+    "lat": 15.81047,
+    "long": 102.02881,
+    "count": 3
+  },
+  {
+    "country": "Thailand",
+    "name": "Krung Thep Maha Nakhon",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Thailand",
+    "name": "Nonthaburi",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "Thailand",
+    "name": "Samut Prakan",
+    "lat": 13.59934,
+    "long": 100.59675,
+    "count": 1
+  },
+  {
+    "country": "Turkey",
+    "name": "Ankara",
+    "lat": 39.91987,
+    "long": 32.85427,
+    "count": 5
+  },
+  {
+    "country": "Turkey",
+    "name": "Isparta",
+    "lat": 37.76444,
+    "long": 30.55222,
+    "count": 3
+  },
+  {
+    "country": "Turkey",
+    "name": "Istanbul",
+    "lat": 41.01384,
+    "long": 28.94966,
+    "count": 1
+  },
+  {
+    "country": "Turkey",
+    "name": "Sakarya",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Ukraine",
+    "name": "Kharkivska oblast",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Ukraine",
+    "name": "Khmelnytska oblast",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Ukraine",
+    "name": "Kyiv",
+    "lat": 50.45466,
+    "long": 30.5238,
+    "count": 34
+  },
+  {
+    "country": "Ukraine",
+    "name": "Kyivska oblast",
+    "lat": null,
+    "long": null,
+    "count": 9
+  },
+  {
+    "country": "Ukraine",
+    "name": "Lvivska oblast",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "Ukraine",
+    "name": "Zaporizka oblast",
+    "lat": null,
+    "long": null,
+    "count": 24
+  },
+  {
+    "country": "United Arab Emirates",
+    "name": "Ash Shariqah",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "United Arab Emirates",
+    "name": "Dubayy",
+    "lat": null,
+    "long": null,
+    "count": 27
+  },
+  {
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "name": "England",
+    "lat": 52.48039,
+    "long": -1.59884,
+    "count": 216
+  },
+  {
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "name": "Scotland",
+    "lat": 57.07626,
+    "long": -4.26958,
+    "count": 5
+  },
+  {
+    "country": "United States of America",
+    "name": "Alabama",
+    "lat": 43.09645,
+    "long": -78.39086,
+    "count": 8
+  },
+  {
+    "country": "United States of America",
+    "name": "Arkansas",
+    "lat": null,
+    "long": null,
+    "count": 11
+  },
+  {
+    "country": "United States of America",
+    "name": "California",
+    "lat": 38.3004,
+    "long": -76.50745,
+    "count": 35
+  },
+  {
+    "country": "United States of America",
+    "name": "Colorado",
+    "lat": null,
+    "long": null,
+    "count": 8
+  },
+  {
+    "country": "United States of America",
+    "name": "Florida",
+    "lat": 41.33176,
+    "long": -74.35682,
+    "count": 24
+  },
+  {
+    "country": "United States of America",
+    "name": "Georgia",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "United States of America",
+    "name": "Idaho",
+    "lat": null,
+    "long": null,
+    "count": 6
+  },
+  {
+    "country": "United States of America",
+    "name": "Illinois",
+    "lat": null,
+    "long": null,
+    "count": 19
+  },
+  {
+    "country": "United States of America",
+    "name": "Iowa",
+    "lat": 30.23687,
+    "long": -93.01376,
+    "count": 1
+  },
+  {
+    "country": "United States of America",
+    "name": "Kansas",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "United States of America",
+    "name": "Louisiana",
+    "lat": 39.44894,
+    "long": -91.05153,
+    "count": 5
+  },
+  {
+    "country": "United States of America",
+    "name": "Maine",
+    "lat": 45.02716,
+    "long": -89.69039,
+    "count": 5
+  },
+  {
+    "country": "United States of America",
+    "name": "Maryland",
+    "lat": null,
+    "long": null,
+    "count": 6
+  },
+  {
+    "country": "United States of America",
+    "name": "Massachusetts",
+    "lat": null,
+    "long": null,
+    "count": 25
+  },
+  {
+    "country": "United States of America",
+    "name": "Michigan",
+    "lat": null,
+    "long": null,
+    "count": 103
+  },
+  {
+    "country": "United States of America",
+    "name": "Minnesota",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "United States of America",
+    "name": "Missouri",
+    "lat": null,
+    "long": null,
+    "count": 61
+  },
+  {
+    "country": "United States of America",
+    "name": "Nevada",
+    "lat": 37.83921,
+    "long": -94.35467,
+    "count": 10
+  },
+  {
+    "country": "United States of America",
+    "name": "New Hampshire",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "United States of America",
+    "name": "New Jersey",
+    "lat": null,
+    "long": null,
+    "count": 95
+  },
+  {
+    "country": "United States of America",
+    "name": "New York",
+    "lat": null,
+    "long": null,
+    "count": 33
+  },
+  {
+    "country": "United States of America",
+    "name": "North Carolina",
+    "lat": null,
+    "long": null,
+    "count": 19
+  },
+  {
+    "country": "United States of America",
+    "name": "Ohio",
+    "lat": null,
+    "long": null,
+    "count": 68
+  },
+  {
+    "country": "United States of America",
+    "name": "Oregon",
+    "lat": 39.98694,
+    "long": -95.14498,
+    "count": 1
+  },
+  {
+    "country": "United States of America",
+    "name": "Pennsylvania",
+    "lat": null,
+    "long": null,
+    "count": 8
+  },
+  {
+    "country": "United States of America",
+    "name": "South Carolina",
+    "lat": null,
+    "long": null,
+    "count": 1
+  },
+  {
+    "country": "United States of America",
+    "name": "Tennessee",
+    "lat": null,
+    "long": null,
+    "count": 3
+  },
+  {
+    "country": "United States of America",
+    "name": "Texas",
+    "lat": null,
+    "long": null,
+    "count": 32
+  },
+  {
+    "country": "United States of America",
+    "name": "Utah",
+    "lat": null,
+    "long": null,
+    "count": 5
+  },
+  {
+    "country": "United States of America",
+    "name": "Virginia",
+    "lat": 39.95116,
+    "long": -90.21234,
+    "count": 26
+  },
+  {
+    "country": "United States of America",
+    "name": "Washington",
+    "lat": 33.73679,
+    "long": -82.73931,
+    "count": 30
+  },
+  {
+    "country": "United States of America",
+    "name": "West Virginia",
+    "lat": null,
+    "long": null,
+    "count": 2
+  },
+  {
+    "country": "United States of America",
+    "name": "Wisconsin",
+    "lat": null,
+    "long": null,
+    "count": 7
+  },
+  {
+    "country": "United States of America",
+    "name": "Wyoming",
+    "lat": 39.11817,
+    "long": -75.55881,
+    "count": 1
+  },
+  {
+    "country": "Venezuela (Bolivarian Republic of)",
+    "name": "Anzoategui",
+    "lat": 8.98645,
+    "long": -64.25879,
+    "count": 5
+  },
+  {
+    "country": "Venezuela (Bolivarian Republic of)",
+    "name": "Delta Amacuro",
+    "lat": 8.83408,
+    "long": -61.44377,
+    "count": 2
+  },
+  {
+    "country": "Venezuela (Bolivarian Republic of)",
+    "name": "Sucre",
+    "lat": 10.54161,
+    "long": -63.26053,
+    "count": 2
+  },
+  {
+    "country": "Viet Nam",
+    "name": "Gia Lai",
+    "lat": 13.85762,
+    "long": 108.2773,
+    "count": 2
+  },
+  {
+    "country": "Viet Nam",
+    "name": "Ha Noi",
+    "lat": 21.02962,
+    "long": 105.83121,
+    "count": 49
+  },
+  {
+    "country": "Viet Nam",
+    "name": "Ho Chi Minh",
+    "lat": 10.84909,
+    "long": 106.63064,
+    "count": 5
+  }
+]

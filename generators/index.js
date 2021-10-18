@@ -101,12 +101,19 @@ function main() {
 	});
 }
 
-main();
+const startGenerators=()=>{
+	console.log("Generators started")
+	main();
+	cron.schedule(
+		CRON_EXPRESSION,
+		() => {
+			executeWithRetry(main, RETRY_COUNT, RETRY_INTERVAL);
+		},
+		{ timezone: TIMEZONE }
+	);
+}
 
-cron.schedule(
-	CRON_EXPRESSION,
-	() => {
-		executeWithRetry(main, RETRY_COUNT, RETRY_INTERVAL);
-	},
-	{ timezone: TIMEZONE }
-);
+
+module.exports={
+	startGenerators
+}

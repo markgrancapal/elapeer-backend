@@ -1,4 +1,4 @@
 /node_modules
-/logs
-/out
-/out2
+/generators/logs
+/generators/out
+/generators/out2
