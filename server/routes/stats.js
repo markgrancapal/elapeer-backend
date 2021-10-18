@@ -1,7 +1,7 @@
 const cors = require('cors');
 
 const corsOptions = {
-  origin: 'http://localhost:3000',
+  origin: 'https://elapeer.net',
 }
 
 const userRoutes = (app, fs) => {
