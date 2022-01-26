@@ -6,7 +6,7 @@ module.exports = {
 	ELAPIER_OUTPUT_DIRECTORY:"/home/maki/elapeer-backend/server/data",
 	MONGODB_CONNECTION_STRING:
 		"mongodb://localhost/elapeer",
-	DAYS_BEFORE_DELETE: 10,
+	DAYS_BEFORE_DELETE: 14,
 	RETRY_COUNT: 5,
 	RETRY_INTERVAL: 60, // minutes
 	CRON_EXPRESSION: "0 0 * * *", // runs every day at 00:00
